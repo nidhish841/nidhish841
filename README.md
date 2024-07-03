@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Nidhish Raj</h1>
 <h3 align="center">A passionate and dedicated Data Scientist</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fj.gifs.com%2FYE6OJA.gif&tbnid=fFHGGDJb65JigM&vet=10CBQQxiAoBGoXChMImN3wmcOLhwMVAAAAAB0AAAAAECc..i&imgrefurl=https%3A%2F%2Fgifs.com%2Fgif%2Fbinary-code-background-YE6OJA&docid=QuXaQKN-LYYXXM&w=480&h=270&itg=1&q=data%20gif%20image&ved=0CBQQxiAoBGoXChMImN3wmcOLhwMVAAAAAB0AAAAAECc">
+<img align="right" alt="Coding" width="400" src="https://j.gifs.com/YE6OJA.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nidhish841&label=Profile%20views&color=0e75b6&style=flat" alt="nidhish841" /> </p>
